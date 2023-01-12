@@ -1,10 +1,10 @@
-export class Covid9Statistic {
+export interface Covid9Statistic {
   continent: string;
   country: string;
   cases: Covid9StatisticCases;
   time: Date;
 }
-export class Covid9StatisticCases {
+export interface Covid9StatisticCases {
   active: number;
 }
 

@@ -24,7 +24,6 @@ export class Covid19FeedListComponent extends Covid19FeedComponent {
   }
 
   public getList(group: Covid9Statistic): Covid9Statistic[] {
-    Covid9Statistic;
     const groupKey = this.generateGroupKey(group);
     const list = this.listDictionary.get(groupKey);
 
