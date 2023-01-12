@@ -1,27 +1,22 @@
-# Test
+# Delegation
+## Angular Design Pattern
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+This project is designed for design pattern - delegation to spearate ui on bussniess logic.
+This Example connected to fake api, to return result of covid 19 result in general.
 
-## Development server
+## Author
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+By Abdulslam Eskef
+Software Enginering & Full Stack Developer
+Experencie in Front-end Developer
 
-## Code scaffolding
+## Demo
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+You can run directly from the link
+https://stackblitz.com/edit/angular-ivy-lbkw4m?file=src%2Fapp%2Fcovid19-feed%2Fcovid19-feed.list.component.ts,src%2Fapp%2Fshared%2Fmodel.ts,src%2Fapp%2Fapp.component.html,src%2Fapp%2Fapp.module.ts,src%2Fapp%2Fcovid19_feed_country_rank%2Fcovid19_feed_country_rank.component.ts,src%2Fapp%2Fcovid19_feed_country_rank%2Fcovid19_feed_country_rank.component.html,src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fcovid19_feed_summary%2Fcovid19_feed_summary.component.html,src%2Fapp%2Fcovid19-feed%2Fcovid19-feed.list.component.html,src%2Fapp%2Fshared%2Fabstract_component.ts,src%2Fapp%2Fshared%2Fservice.ts,src%2Fapp%2Fcovid19_feed_summary%2Fcovid19_feed_summary.component.ts
 
-## Build
+## Contact Us
+Alsllam@gmail.com
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Refernce
+https://medium.com/@kptengco/how-efficient-is-delegation-design-pattern-in-angular-2fffdce654f3
