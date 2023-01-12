@@ -13,7 +13,7 @@ Experencie in Front-end Developer
 ## Demo
 
 You can run directly from the link
-https://stackblitz.com/edit/angular-ivy-lbkw4m?file=src%2Fapp%2Fcovid19-feed%2Fcovid19-feed.list.component.ts,src%2Fapp%2Fshared%2Fmodel.ts,src%2Fapp%2Fapp.component.html,src%2Fapp%2Fapp.module.ts,src%2Fapp%2Fcovid19_feed_country_rank%2Fcovid19_feed_country_rank.component.ts,src%2Fapp%2Fcovid19_feed_country_rank%2Fcovid19_feed_country_rank.component.html,src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fcovid19_feed_summary%2Fcovid19_feed_summary.component.html,src%2Fapp%2Fcovid19-feed%2Fcovid19-feed.list.component.html,src%2Fapp%2Fshared%2Fabstract_component.ts,src%2Fapp%2Fshared%2Fservice.ts,src%2Fapp%2Fcovid19_feed_summary%2Fcovid19_feed_summary.component.ts
+https://stackblitz.com/edit/angular-ivy-lbkw4m
 
 ## Contact Us
 Alsllam@gmail.com
